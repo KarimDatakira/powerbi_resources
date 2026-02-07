@@ -1,0 +1,11 @@
+﻿ClientID;Nom;Sexe;Age;Ville;Region
+C001;Alice Martin;F;29;Paris;Île-de-France
+C002;Jean Dupont;M;45;Lyon;Sud-Est
+C003;Sophie Bernard;F;34;Marseille;Sud-Est
+C004;Paul Laurent;M;52;Toulouse;Sud-Ouest
+C005;Emma Petit;F;41;Bordeaux;Sud-Ouest
+C006;Lucas Moreau;M;37;Lille;Nord
+C007;Chloé Robert;F;26;Nice;Sud-Est
+C008;Hugo Richard;M;48;Nantes;Nord-Ouest
+C009;Laura Garcia;F;31;Strasbourg;Nord-Est
+C010;Thomas Leroy;M;39;Rennes;Nord-Ouest

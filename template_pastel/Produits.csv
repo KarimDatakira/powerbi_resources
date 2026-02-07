@@ -1,0 +1,11 @@
+ProduitID;NomProduit;Categorie;PrixUnitaire
+P001;T-shirt basique;Homme;15
+P002;Jeans slim;Homme;45
+P003;Chemise élégante;Homme;39
+P004;Robe d'été;Femme;49
+P005;Jupe plissée;Femme;35
+P006;Pull en laine;Femme;55
+P007;Veste en jean;Enfant;29
+P008;Sweat à capuche;Enfant;25
+P009;Chaussures de sport;Unisexe;60
+P010;Manteau d'hiver;Unisexe;89
